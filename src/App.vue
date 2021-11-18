@@ -1,5 +1,5 @@
-<template>
-  <img alt="Vue logo" src="./assets/logo.png">
+<template> <!-- Template DOM (DOM = HTML? etc...) -->
+  <img alt="Vue logo" src="./assets/logo.png"> <!-- Si une balise commmence par une Majuscule, c'est un "Composant" -->
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
